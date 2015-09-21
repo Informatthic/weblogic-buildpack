@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.7.0_+
-  repository_root: "http://rbcbluemix.mybluemix.net/jdk"
+  repository_root: "http://val1.chapron.biz/wls12c/jdk"
 memory_calculator:
   version: 2.+
   repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
