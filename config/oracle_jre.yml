@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.7.0_+
-  repository_root: "http://val1.chapron.biz:800/wls12c/jdk"
+  repository_root: "http://89.234.148.46:800/wls12c/jdk"
 memory_calculator:
   version: 2.+
   repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
