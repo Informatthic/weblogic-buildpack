@@ -19,7 +19,7 @@
 # e.g.  repository_root: "http://example.com/oracle-wls/{platform}/{architecture}"
 
 version: 12.1.+
-repository_root: "http://89.234.148.46:800/wls12c/wls12c"
+repository_root: "http://mydrive.mybluemix.net/files/jdk"
 
 # prefer_app_config - Use the App bundled configs over the buildpack bundled configs?
 # If set to true, all configs and scripts packaged with the app bundle will be used for domain and server creation.
